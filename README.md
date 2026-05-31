@@ -1,5 +1,6 @@
 # Credit Risk Scorecard
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bckenz-ai/credit-risk-scorecard/blob/main/Credit_Risk_Scorecard.ipynb)
+
 An end-to-end credit risk scorecard built on the
 [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)
 dataset from Kaggle.
