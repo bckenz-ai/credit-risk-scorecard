@@ -8,14 +8,11 @@ dataset from Kaggle.
 
 This notebook walks through the full scorecard development pipeline:
 
-- **EDA** — Income distribution, credit density, and income-annuity relationships
-- **Imbalance Diagnostics** — Severity (IR = 11.4:1), EPV check, KS-based class
-  overlap analysis, and PCA/UMAP projections before and after Borderline-SMOTE
-- **Feature Engineering** — Five domain-driven credit ratios derived from raw fields
-- **WOE/IV Filtering** — Industry-standard Weight of Evidence encoding and
-  Information Value filtering to retain only features with predictive power
-- **Final Pipeline** — Imputation, scaling, Borderline-SMOTE, and Logistic
-  Regression evaluated by ROC-AUC and the Gini Coefficient
+- **EDA:** Income distribution, credit density, and income-annuity relationships
+- **Imbalance Diagnostics:** Severity (IR = 11.4:1), EPV check, KS-based class overlap analysis, and PCA/UMAP projections before and after Borderline-SMOTE
+- **Feature Engineering:** Five domain-driven credit ratios derived from raw fields
+- **WOE/IV Filtering:** Industry-standard Weight of Evidence encoding and Information Value filtering to retain only features with predictive power
+- **Final Pipeline:** Imputation, scaling, Borderline-SMOTE, and Logistic Regression evaluated by ROC-AUC and the Gini Coefficient
 
 ## Setup
 
