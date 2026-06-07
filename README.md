@@ -54,7 +54,9 @@ Open `Credit_Risk_Scorecard.ipynb` in Jupyter and run all cells.
 
 Elreedy, D., & Atiya, A. F. (2019). A Comprehensive Analysis of Synthetic Minority
 Oversampling Technique (SMOTE) for handling class imbalance. *Information Sciences*,
-505, 32–64.
+505, 32–64. https://doi.org/10.1016/j.ins.2019.07.070
+
+MetricGate. (2025). MetricGate. https://metricgate.com/blogs/credit-scoring-logistic-regression/
 
 Thomas, L. C., Crook, J. N., & Edelman, D. B. (2017). *Credit scoring and its
 applications*. Society for Industrial and Applied Mathematics.
